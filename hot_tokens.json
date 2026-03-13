@@ -88,5 +88,14 @@
     "liquidity": 0,
     "tx_count": 0,
     "contract": "9nmgcETLVxCGcBCJ9Zd49fBimhFZnYL4MDHgrJJBpump"
+  },
+  {
+    "name": "Isrealmoneymaker",
+    "symbol": "$ISREAL",
+    "time": "未知",
+    "price": "N/A",
+    "liquidity": 0,
+    "tx_count": 0,
+    "contract": "CmfXs1uZKywgnvQxRkuBE68nbkeBAkC7uKW8dqXEpump"
   }
 ]
