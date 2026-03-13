@@ -124,5 +124,14 @@
     "liquidity": 0,
     "tx_count": 0,
     "contract": "A89dXomwaFrZt9bujzdHuYgQ8SqsjKFmcDJyFmhApump"
+  },
+  {
+    "name": "KC-135",
+    "symbol": "KC-135",
+    "time": "未知",
+    "price": "N/A",
+    "liquidity": 0,
+    "tx_count": 0,
+    "contract": "7txkrxvtdH615CGrNq7V9b1h3uhJaeonnmTfhVdNpump"
   }
 ]
