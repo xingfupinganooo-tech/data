@@ -133,5 +133,14 @@
     "liquidity": 0,
     "tx_count": 0,
     "contract": "7txkrxvtdH615CGrNq7V9b1h3uhJaeonnmTfhVdNpump"
+  },
+  {
+    "name": "Seddy",
+    "symbol": "SEDDY",
+    "time": "未知",
+    "price": "N/A",
+    "liquidity": 0,
+    "tx_count": 0,
+    "contract": "HHK4rhVDPdQdCxZ9G7pYuSruwwWkMaL2X4G17fQgpump"
   }
 ]
