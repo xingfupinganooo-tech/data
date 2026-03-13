@@ -106,5 +106,14 @@
     "liquidity": 0,
     "tx_count": 0,
     "contract": "5KSynVGXXSqLgsZ7nDYJfEQnp1YGs4iwdUXW8uSypump"
+  },
+  {
+    "name": "parrots in love",
+    "symbol": "pil",
+    "time": "未知",
+    "price": "N/A",
+    "liquidity": 0,
+    "tx_count": 0,
+    "contract": "irZfz5HVwKqQ1CCzJc1PgsEXFycJoEk6Go1vtynpump"
   }
 ]
