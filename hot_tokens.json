@@ -79,5 +79,14 @@
     "liquidity": 0,
     "tx_count": 0,
     "contract": "8unh3Ttorzh7gc88MbwKzo5cdR4MhSk8JULaU8bLpump"
+  },
+  {
+    "name": "pillions",
+    "symbol": "pug",
+    "time": "未知",
+    "price": "N/A",
+    "liquidity": 0,
+    "tx_count": 0,
+    "contract": "9nmgcETLVxCGcBCJ9Zd49fBimhFZnYL4MDHgrJJBpump"
   }
 ]
